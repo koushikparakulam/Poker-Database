@@ -1,0 +1,20 @@
+USE poker_room;
+
+DESCRIBE All_Card_Types;
+DESCRIBE All_Subround_Types;
+DESCRIBE All_Seat_Types;
+DESCRIBE All_Bet_Types;
+DESCRIBE All_Limit_Types;
+DESCRIBE System_Register;
+DESCRIBE Player;
+DESCRIBE Game;
+DESCRIBE Round;
+DESCRIBE Subround;
+DESCRIBE Game_Account;
+DESCRIBE Make_Bet;
+DESCRIBE Pay_Out;
+DESCRIBE Rake_Out;
+DESCRIBE Buy_Out;
+DESCRIBE Buy_In;
+DESCRIBE Players_Cards;
+DESCRIBE Community_Cards;
