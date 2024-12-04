@@ -1,0 +1,24 @@
+USE poker_room;
+
+DROP TEMPORARY TABLE IF EXISTS TempGameAccountTotals;
+DROP TEMPORARY TABLE IF EXISTS TempWinners;
+DROP TABLE IF EXISTS buy_in;
+DROP TABLE IF EXISTS buy_out;
+DROP TABLE IF EXISTS community_cards;
+DROP TABLE IF EXISTS make_bet;
+DROP TABLE IF EXISTS pay_out;
+DROP TABLE IF EXISTS players_cards;
+DROP TABLE IF EXISTS rake_out;
+DROP TABLE IF EXISTS game_account;
+DROP TABLE IF EXISTS subround;
+DROP TABLE IF EXISTS round;
+DROP TABLE IF EXISTS game;
+DROP TABLE IF EXISTS all_bet_types;
+DROP TABLE IF EXISTS all_card_types;
+DROP TABLE IF EXISTS all_limit_types;
+DROP TABLE IF EXISTS all_seat_types;
+DROP TABLE IF EXISTS all_subround_types;
+DROP TABLE IF EXISTS player;
+DROP TABLE IF EXISTS system_register;
+
+
